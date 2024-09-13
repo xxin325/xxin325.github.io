@@ -1,1 +1,9 @@
-
+Origin: 🇨🇳xxin325's repo
+Label: xxin325's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: 微信：wuyao909，欢迎咨询！
+Icon: https://github.com/xxin325/xxin325.github.io/blob/main/icon.PNG
